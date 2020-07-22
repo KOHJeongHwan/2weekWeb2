@@ -1,3 +1,6 @@
-* {
+body{
     background-color: paleturquoise;
+}
+label{
+    background-color: palegoldenrod;
 }
