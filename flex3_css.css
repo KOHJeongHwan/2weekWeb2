@@ -1,0 +1,40 @@
+.boxcontain1{
+    width: 600px;
+    height: 110px;
+    border-radius: 5px;
+
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.boxcontain2{
+    width: 600px;
+    height: 110px;
+    border-radius: 5px;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.boxcontain3{
+    width: 600px;
+    height: 110px;
+    border-radius: 5px;
+
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    margin: 5px;
+}
